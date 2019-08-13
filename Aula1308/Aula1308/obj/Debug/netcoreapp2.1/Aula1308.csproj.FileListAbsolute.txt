@@ -1,0 +1,11 @@
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\bin\Debug\netcoreapp2.1\Aula1308.deps.json
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\bin\Debug\netcoreapp2.1\Aula1308.runtimeconfig.json
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\bin\Debug\netcoreapp2.1\Aula1308.runtimeconfig.dev.json
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\bin\Debug\netcoreapp2.1\Aula1308.dll
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\bin\Debug\netcoreapp2.1\Aula1308.pdb
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\obj\Debug\netcoreapp2.1\Aula1308.csprojAssemblyReference.cache
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\obj\Debug\netcoreapp2.1\Aula1308.csproj.CoreCompileInputs.cache
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\obj\Debug\netcoreapp2.1\Aula1308.AssemblyInfoInputs.cache
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\obj\Debug\netcoreapp2.1\Aula1308.AssemblyInfo.cs
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\obj\Debug\netcoreapp2.1\Aula1308.dll
+C:\Users\UTFPR\source\repos\Aula1308\Aula1308\obj\Debug\netcoreapp2.1\Aula1308.pdb
